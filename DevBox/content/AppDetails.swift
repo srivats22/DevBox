@@ -36,7 +36,7 @@ struct AppDetails: View {
             .shadow(radius: 5)
             Button(
                 action: {
-                    openWebsite(urlString: "https://www.apple.com")
+                    openWebsite(urlString: "https://github.com/srivats22/DevBox")
                 }
             ){
                 Text("View Code")
